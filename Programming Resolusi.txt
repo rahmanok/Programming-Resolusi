@@ -1,0 +1,4 @@
+Resolusi Tahun 2020
+- Dasar  Laravel
+- Buat Project Sederhana 3 Buah
+- Persiapan Project sebenarnya
