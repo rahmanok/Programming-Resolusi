@@ -3,5 +3,5 @@ Resolusi Tahun 2020
 - Buat Project Sederhana 3 Buah
 - Persiapan Project sebenarnya
 Tahun 2021
-- Menyelesaikan Project sebenarnya
-- Mulai mobile app proggramming
+ - Mulai mobile app proggramming
+- Memperdalam laravel
